@@ -1,0 +1,4 @@
+Starting about 1/3 of the way through this course I started to add TODOs for each lesson.
+
+So,  display all TODOs and you should see each video # tagged to each bit of code that particular lesson
+is associated with.
